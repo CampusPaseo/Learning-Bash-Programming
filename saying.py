@@ -1,0 +1,1 @@
+print("I hope you are able to understand and learn more about bash")
